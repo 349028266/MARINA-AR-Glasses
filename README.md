@@ -7,3 +7,6 @@ planning out the design of the glasses. Drawings, pseudocode, CAD files, etc.
 
 ## 2. Building Stage
 Building and obtaining all the components necessary to build the glasses. 
+
+## 3. Testing Stage
+Testing whether it can function as needed.
